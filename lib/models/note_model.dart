@@ -1,3 +1,5 @@
+import 'package:hive/hive.dart';
+
 class NoteModel {
   final String title;
   final String subTitle;
