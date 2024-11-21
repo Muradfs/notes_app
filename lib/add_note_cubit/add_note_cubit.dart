@@ -6,3 +6,5 @@ part 'add_note_state.dart';
 class NotesCubit extends Cubit<AddNoteState> {
   NotesCubit() : super(AddNoteIntial());
 }
+
+addNote(NoteModel note) {}
