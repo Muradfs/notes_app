@@ -8,7 +8,7 @@ import 'package:flutter_bloc/flutter_bloc.dart';
 import '../models/note_model.dart';
 part 'add_note_state.dart';
 
-class NotesCubit extends Cubit<AddNoteState> {
+class AddNoteCubit extends Cubit<AddNoteState> {
   NotesCubit() : super(AddNoteIntial());
 }
 
