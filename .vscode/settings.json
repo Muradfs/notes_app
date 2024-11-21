@@ -1,3 +1,9 @@
 {
-    "liveServer.settings.port": 5501
+    "liveServer.settings.port": 5501,
+    "dart.sdkPaths": [
+        "C:\\Users\\Garrash-PC\\AppData\\Local\\Android\\Sdk"
+    ],
+    "dart.flutterSdkPaths": [
+        "C:\\Users\\Garrash-PC\\AppData\\Local\\Android\\Sdk"
+    ]
 }
